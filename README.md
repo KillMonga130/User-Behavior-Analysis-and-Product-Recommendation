@@ -71,11 +71,6 @@ There are several potential improvements and extensions to this project:
 ## Acknowledgments
 
 I would like to thank the developers of the Surprise library and the various open-source contributors whose libraries and tools were essential for the completion of this project.
-
-## Contact
-
-For any questions or feedback, please feel free to contact me at [your email address].
-
 ---
 
 **Disclaimer**: This project is a demonstration and is not intended for production use. The dataset used is a private dataset, and the results may vary with different datasets.
